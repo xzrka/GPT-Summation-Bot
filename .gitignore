@@ -1,0 +1,11 @@
+# 환경 변수 파일
+.env
+.env*
+
+.session
+.session-journal
+.db
+
+/backup
+
+/.venv
